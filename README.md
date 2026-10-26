@@ -7,9 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+clean+%26+responsive+web+interfaces;%F0%9F%94%90+Currently+diving+deep+into+Cybersecurity;%F0%9F%A4%96+Building+ESP32+robots+%26+embedded+systems;%F0%9F%92%BB+React+%7C+Tailwind+%7C+Node+%7C+MongoDB;%F0%9F%8E%AF+Competitive+Programmer+%7C+Beecrowd+grinder;%F0%9F%93%84+Academic+researcher+%7C+data-driven+writing;%F0%9F%87%A7%F0%9F%87%A9+CSE+Student+%40+DIU%2C+Bangladesh)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Safin313--REBORN.github.io-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Safin313-REBORN.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saharia%20Hassan%20Safin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharia-hassan-safin/)
 [![GitHub](https://img.shields.io/badge/GitHub-Safin313--REBORN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safin313-REBORN)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shahariarsaf892)
+[![Medium](https://img.shields.io/badge/Medium-@sahariahassansafin-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahariahassansafin)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14EQjp8qPeE/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Safin313-REBORN&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS)
 
@@ -31,15 +33,17 @@
 │  location    : Dhaka, Bangladesh 🇧🇩                         │
 │  university  : Daffodil International University (DIU)      │
 │  degree      : B.Sc. in Computer Science & Engineering      │
-│  cohort      : Programming Hero — Batch 13                  │
+│  industry    : Frontend Dev & Robotics @ Projectile Elect.  │
+│  leadership  : Exec Member @ DIU CPC · LCPL @ BNCC          │
 ├─────────────────────────────────────────────────────────────┤
 │  currently_working_on:                                      │
-│    - React.js projects & full-stack (MERN) development      │
-│    - 🤖 ESP32-based embedded systems & robotics             │
-│    - 🔐 Cybersecurity — CTF challenges, ethical hacking     │
-│    - Competitive programming on Beecrowd (C/C++)            │
-│    - 📄 Academic research & data-driven scientific writing  │
-│    - Freelancing (Fiverr · PeoplePerHour)                   │
+│    - 🏢 Frontend & robotics at Projectile Electronic        │
+│    - 📄 Published researcher (iCONEECT 2026 - SleepGuard ML)│
+│    - 🌐 Full-stack Next.js/MERN production architectures    │
+│    - 🤖 ESP32 IoT firmware, dual-OLED & companion robots    │
+│    - 🔐 Defensive cybersecurity, Wireshark & CTF challenges │
+│    - ⚡ Competitive programming & Beecrowd / Toph solving   │
+│    - 🌍 Freelancing on Fiverr (5.0★ Rated)                  │
 ├─────────────────────────────────────────────────────────────┤
 │  fun_fact    : I debug with console.log and I'm not ashamed │
 └─────────────────────────────────────────────────────────────┘
@@ -53,6 +57,45 @@
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ============================================================
+     ACADEMIC RESEARCH & PUBLICATIONS
+     ============================================================ -->
+<div align="center">
+
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Academic%20Research%20%26%20Publications&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+
+</div>
+
+> 🔬 **Peer-Reviewed Conference Paper — iCONEECT 2026**  
+> **"An IoT-Compatible Machine Learning Framework for Sleep Apnea Risk Prediction Using SpO2 and Heart Rate (SleepGuard)"**  
+> *2026 1st International Conference on Next-Generation Electrical & Electronics, Computer Systems, and Technologies (iCONEECT)*  
+> *Premier University, Chittagong, Bangladesh (25–26 September 2026)*
+
+- 🎯 **Test Classification Accuracy**: **98.95%** using a Soft-Voting Hybrid Ensemble.
+- ⚡ **Edge & IoT Compatible**: Non-invasive 4-signal screening (Age, Gender, BPM, and SpO2) engineered for wearable microcontrollers.
+- 🧪 **Rigorous Methodology**: Trained on 471 clinical patient records with strictly isolated SMOTE balancing.
+
+---
+
+<!-- ============================================================
+     EXPERIENCE & LEADERSHIP
+     ============================================================ -->
+<div align="center">
+
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Experience%20%26%20Leadership&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+
+</div>
+
+| Role | Organization | Period | Focus & Contributions |
+|------|--------------|--------|----------------------|
+| **Frontend Developer & Employee** | **Projectile Electronic** | *June 2026 – Present* | Builds user-facing web portals, custom electronics/robotics mechanisms, and oversees technical shop operations. |
+| **Executive Member** | **DIU Computer Programming Club (CPC)** | *Active Term* | Coordinates intra-university programming contests, mentors junior engineers, and organizes algorithmic bootcamps. |
+| **Active Member** | **DIU Cybersecurity Club** | *Active Term* | Participates in ethical hacking labs, network packet analysis (Wireshark), and CTF challenge scrimmages. |
+| **Lance Corporal (LCPL)** | **Bangladesh National Cadet Corps (BNCC)** | *2023 – Present* | Platoon drill command, annual camping survival, and national disaster relief response certification. |
+| **Independent Freelancer** | **Fiverr Global Marketplace** | *Active* | Delivering high-quality full-stack MERN apps, custom scripts, and embedded firmware to international clients. |
 
 ---
 
@@ -93,9 +136,9 @@ I'm actively expanding into **Cybersecurity** alongside my web development journ
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Tech%20Stack&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,php,js,html,css,react,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,firebase,git,github,linux,kali,vscode&theme=dark&perline=11" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,php,js,ts,html,css,react,nextjs,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,firebase,git,github,linux,kali,vscode&theme=dark&perline=12" alt="tech stack icons" />
 
-### 🔐 Cybersecurity *(Actively Learning)*
+### 🔐 Cybersecurity *(Actively Practicing)*
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
@@ -126,9 +169,9 @@ I'm actively expanding into **Cybersecurity** alongside my web development journ
 
 **💻 Development**
 ```
-Frontend (React/JS)   ████████░░ 80%
-Backend (Node/Express) ███████░░░ 70%
-Responsive/Tailwind    █████████░ 90%
+Frontend (React/Next) █████████░ 85%
+Backend (Node/Express) ████████░░ 75%
+Responsive / Tailwind  █████████░ 90%
 Database (Mongo/SQL)   ███████░░░ 70%
 ```
 
@@ -139,19 +182,19 @@ Database (Mongo/SQL)   ███████░░░ 70%
 ```
 DSA & Algorithms       ████████░░ 80%
 Competitive Prog.      ████████░░ 80%
-Debugging              █████████░ 90%
-Linux / CLI            ███████░░░ 70%
+Debugging & GDB        █████████░ 90%
+Linux / CLI & Bash     ████████░░ 80%
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**🔬 Emerging**
+**🔬 Systems & Defense**
 ```
-Cybersecurity / CTF    ██████░░░░ 60%
-Embedded (ESP32)       ███████░░░ 70%
-Research & Writing     ███████░░░ 70%
-Machine Learning       ████░░░░░░ 40%
+Embedded (ESP32/IoT)   ████████░░ 80%
+Cybersecurity / CTF    ███████░░░ 70%
+Academic Research      ████████░░ 80%
+Machine Learning / ML  ██████░░░░ 60%
 ```
 
 </td>
@@ -164,16 +207,16 @@ Machine Learning       ████░░░░░░ 40%
 
 | Category | Skills |
 |----------|--------|
-| Frontend | HTML5, CSS3, JavaScript (ES6+), React.js |
-| CSS Frameworks | Tailwind CSS, Bootstrap, Responsive Web Design |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB, MySQL, Firebase |
-| Languages | C, C++, Python, Java, PHP |
-| Embedded / Hardware | ESP32, Arduino, sensor & display interfacing |
-| Version Control | Git, GitHub |
-| Dev Tools | VS Code, Vite |
-| OS | Linux (Zorin/Ubuntu), Windows |
-| Research | Academic technical writing, data visualization, structured reporting |
+| Frontend | HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js |
+| Styling / UI | Tailwind CSS, DaisyUI, Bootstrap, Responsive Design, Framer Motion |
+| Backend | Node.js, Express.js, REST APIs, BetterAuth, JWT Auth |
+| Database | MongoDB Atlas, MySQL, Firebase Firestore |
+| Languages | C (C99/C17), C++, Python, TypeScript, JavaScript, Java, PHP |
+| Embedded / Hardware | ESP32, Arduino, Dual-OLED (SSD1306), SpO2/PPG Sensors, Robotics Hardware |
+| Version Control & CI/CD | Git, GitHub, GitHub Actions, Vercel, Render |
+| Dev Tools | VS Code, Vite, GDB Debugger, Makefiles |
+| OS & Security Tools | Linux (Ubuntu / Kali), Windows, Wireshark, Metasploit, Nmap |
+| Academic / Research | Scientific technical writing, SMOTE balancing, Scikit-learn, data visualization |
 
 </details>
 
@@ -184,16 +227,15 @@ Machine Learning       ████░░░░░░ 40%
 | Skill | Status |
 |-------|--------|
 | Linux & Command Line | ✅ Solid |
-| Networking Fundamentals | 🔄 Learning |
-| Ethical Hacking Basics | 🔄 Learning |
+| Networking & Protocols (TCP/IP, DNS) | ✅ Solid |
+| Ethical Hacking Basics | 🔄 Practicing |
 | CTF Challenges | 🔄 Practicing |
-| Kali Linux | 🔄 Learning |
-| Wireshark / Network Analysis | 🔄 Learning |
-| Web Application Security (OWASP) | 🔄 Learning |
-| Vulnerability Scanning | 🔄 Learning |
+| Kali Linux Toolchain | 🔄 Practicing |
+| Wireshark / Network Packet Dissection | 🔄 Practicing |
+| Web Application Security (OWASP Top 10) | 🔄 Learning |
+| OSINT & Google Dorking | ✅ Certified |
+| Digital Forensics Fundamentals | ✅ Certified |
 | Penetration Testing Fundamentals | 🔄 Learning |
-
-> 🚨 **Cybersecurity projects and writeups coming soon!**
 
 </details>
 
@@ -212,52 +254,88 @@ Machine Learning       ████░░░░░░ 40%
 <tr>
 <td width="50%" valign="top">
 
-**🐾 PawsHome**
-Full-stack MERN pet adoption platform with JWT auth, TanStack Query, and smooth Framer Motion UI.
-`React` `Node` `Express` `MongoDB` `Framer Motion`
+**🐾 PawsHome**  
+Full-stack MERN pet adoption platform with JWT HTTPOnly authentication, TanStack Query, and smooth Framer Motion UI.  
+`React` `Node` `Express` `MongoDB Atlas` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 MOCHI AI**
-ESP32 desktop companion robot — dual-OLED display, a parametric 73-emotion face engine, AI chat, and mini-games.
-`ESP32` `C++` `Gemini API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎚️ LM3915 VU Meter**
-Analog audio-reactive LED VU meter built for an EDC hardware course, driven straight off a 3.5mm audio input.
-`Analog Electronics` `LM3915`
-
-</td>
-<td width="50%" valign="top">
-
-**🐛 GitHub Issues Tracker**
-Browse & filter GitHub issues live via the REST API.
-`ES6+` `GitHub API`
+**🔬 SleepGuard ML Framework**  
+IoT-compatible edge machine learning sleep apnea risk prediction framework published at iCONEECT 2026. Achieved **98.95%** accuracy on clinical bio-signals.  
+`Python` `Scikit-learn` `SMOTE` `Edge AI` `iCONEECT 2026`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎙️ TechWave**
-Responsive podcast landing page.
-`Tailwind CSS`
+**🤖 MOCHI AI**  
+ESP32 desktop companion robot — dual-OLED displays, a parametric 73-emotion face engine, AI conversational chat, and mini-games.  
+`ESP32` `C++` `Gemini API` `FreeRTOS`
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 CTF Writeups** *(Coming Soon)*
-Cybersecurity challenge solutions.
-`Security` `Linux`
+**🍎 Apple Tile Gallery**  
+Interactive media gallery application built with Next.js and TypeScript, featuring modern BetterAuth authentication and Swiper carousels.  
+`Next.js` `TypeScript` `BetterAuth` `MongoDB` `DaisyUI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💻 C Systems Console Suite**  
+Suite of 4 terminal applications in pure C featuring binary/text file persistence, pointer-based records, and ANSI formatting.  
+`Pure C (C99)` `File I/O` `Pointers` `Memory Mgmt`
+
+</td>
+<td width="50%" valign="top">
+
+**🎚️ LM3915 VU Meter**  
+Analog audio-reactive LED VU meter built for an EDC hardware course, driven straight off a 3.5mm audio input.  
+`Analog Electronics` `LM3915` `Hardware`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐛 GitHub Issues Tracker**  
+Browse & filter GitHub issues live via the REST API with instant state feedback.  
+`ES6+` `GitHub REST API` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+**📖 Windows Commands Cheatsheet**  
+Open-source reference manual for cybersecurity analysts, penetration testers, and sysadmins covering CMD & PowerShell.  
+`PowerShell` `Windows CMD` `Security` `MIT License`
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ============================================================
+     CREDENTIALS & HONORS
+     ============================================================ -->
+<div align="center">
+
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Certifications%20%26%20Honors&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+
+</div>
+
+- 🛡️ **Cisco Networking Academy** — *Introduction to Cybersecurity* (Threat Profiles, Firewalls, CIA Triad)
+- 💻 **freeCodeCamp** — *Responsive Web Design Certification* (300 Hours, Semantic HTML5, CSS3 Grid/Flexbox)
+- ⚡ **freeCodeCamp** — *JavaScript Algorithms & Data Structures* (300 Hours, ES6+, Functional Data Structures)
+- 🐍 **Accredited Academic Track** — *Python Programming Certification (Academic Transcript Verified)*
+- 🔍 **Cybersecurity Workshop Series** — *Digital Forensics, OSINT Reconnaissance & Google Dorking*
+- 🏆 **Titas Gas PLC × DIU CSE** — *Certificate of Appreciation (AI-Powered Productivity Transformation)*
+- 🎯 **DIU Programming Contests** — *DIU Take Off Finalist & Unlock The Algorithm (UTA) Finalist*
+- 🎖️ **Bangladesh National Cadet Corps (BNCC)** — *Camping, Leadership & Disaster Management (LCPL)*
 
 ---
 
@@ -319,12 +397,15 @@ Cybersecurity challenge solutions.
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Let's%20Connect&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-**Open to:** Freelance · Collaborations · CTF teams · Learning together
+**Open to:** Full-Stack & Frontend Roles · Embedded IoT Engineering · Cybersecurity Research · Global Freelance
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Safin313--REBORN.github.io-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Safin313-REBORN.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharia-hassan-safin/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shahariarsaf892)
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahariahassansafin)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safinhassan164@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14EQjp8qPeE/)
 
 </div>
