@@ -256,6 +256,7 @@ Machine Learning / ML  ██████░░░░ 60%
 
 **🐾 PawsHome**  
 Full-stack MERN pet adoption platform with JWT HTTPOnly authentication, TanStack Query, and smooth Framer Motion UI.  
+🔗 [Client Repository](https://github.com/Safin313-REBORN/Assignment-Category-CAT_10-Pet-Adoption-Client) · [Server Repository](https://github.com/Safin313-REBORN/Assignment-Category-CAT_10-Pet-Adoption-Server)  
 `React` `Node` `Express` `MongoDB Atlas` `Firebase`
 
 </td>
@@ -263,6 +264,7 @@ Full-stack MERN pet adoption platform with JWT HTTPOnly authentication, TanStack
 
 **🔬 SleepGuard ML Framework**  
 IoT-compatible edge machine learning sleep apnea risk prediction framework published at iCONEECT 2026. Achieved **98.95%** accuracy on clinical bio-signals.  
+🔗 [Research Paper Dossier](https://Safin313-REBORN.github.io) · [iCONEECT 2026](https://Safin313-REBORN.github.io)  
 `Python` `Scikit-learn` `SMOTE` `Edge AI` `iCONEECT 2026`
 
 </td>
@@ -272,6 +274,7 @@ IoT-compatible edge machine learning sleep apnea risk prediction framework publi
 
 **🤖 MOCHI AI**  
 ESP32 desktop companion robot — dual-OLED displays, a parametric 73-emotion face engine, AI conversational chat, and mini-games.  
+🔗 [Hardware Architecture](https://Safin313-REBORN.github.io)  
 `ESP32` `C++` `Gemini API` `FreeRTOS`
 
 </td>
@@ -279,6 +282,7 @@ ESP32 desktop companion robot — dual-OLED displays, a parametric 73-emotion fa
 
 **🍎 Apple Tile Gallery**  
 Interactive media gallery application built with Next.js and TypeScript, featuring modern BetterAuth authentication and Swiper carousels.  
+🔗 [GitHub Repo](https://github.com/Safin313-REBORN/Assignment-8-Category-A8-Apple)  
 `Next.js` `TypeScript` `BetterAuth` `MongoDB` `DaisyUI`
 
 </td>
@@ -288,6 +292,7 @@ Interactive media gallery application built with Next.js and TypeScript, featuri
 
 **💻 C Systems Console Suite**  
 Suite of 4 terminal applications in pure C featuring binary/text file persistence, pointer-based records, and ANSI formatting.  
+🔗 [C & Algorithms Archive](https://github.com/Safin313-REBORN/Beecrowd_Problem_Solving)  
 `Pure C (C99)` `File I/O` `Pointers` `Memory Mgmt`
 
 </td>
@@ -295,6 +300,7 @@ Suite of 4 terminal applications in pure C featuring binary/text file persistenc
 
 **🎚️ LM3915 VU Meter**  
 Analog audio-reactive LED VU meter built for an EDC hardware course, driven straight off a 3.5mm audio input.  
+🔗 [Hardware Specs](https://Safin313-REBORN.github.io)  
 `Analog Electronics` `LM3915` `Hardware`
 
 </td>
@@ -304,6 +310,7 @@ Analog audio-reactive LED VU meter built for an EDC hardware course, driven stra
 
 **🐛 GitHub Issues Tracker**  
 Browse & filter GitHub issues live via the REST API with instant state feedback.  
+🔗 [GitHub Repo](https://github.com/Safin313-REBORN/Assingment-B13-A5-Github-Issue-Tracker)  
 `ES6+` `GitHub REST API` `Tailwind`
 
 </td>
@@ -311,6 +318,7 @@ Browse & filter GitHub issues live via the REST API with instant state feedback.
 
 **📖 Windows Commands Cheatsheet**  
 Open-source reference manual for cybersecurity analysts, penetration testers, and sysadmins covering CMD & PowerShell.  
+🔗 [GitHub Repo](https://github.com/Safin313-REBORN/Windows-commands-cheatsheet)  
 `PowerShell` `Windows CMD` `Security` `MIT License`
 
 </td>
@@ -326,16 +334,48 @@ Open-source reference manual for cybersecurity analysts, penetration testers, an
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Certifications%20and%20Honors&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
+<div align="center">
+
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-User%201185196-1890FF?style=for-the-badge&logo=cplusplus&logoColor=white)](https://judge.beecrowd.com/en/profile/1185196)
+[![Toph](https://img.shields.io/badge/Toph-@Oyishi__05-00D2FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://toph.co/u/Oyishi_05)
+[![ICPC Prelims](https://img.shields.io/badge/DIU%20Contest-Rank%20%2329%20Top%2030-FF6B6B?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Safin313-REBORN)
+[![UTA Contest](https://img.shields.io/badge/UTA%20Contest-Rank%20%2378-00D2FF?style=for-the-badge&logo=codementor&logoColor=white)](https://github.com/Safin313-REBORN)
+[![Solutions Repo](https://img.shields.io/badge/Problem%20Solving-C%20%2F%20C++%20Archive-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safin313-REBORN/Beecrowd_Problem_Solving)
+
 </div>
 
-- 🛡️ **Cisco Networking Academy** — *Introduction to Cybersecurity* (Threat Profiles, Firewalls, CIA Triad)
-- 💻 **freeCodeCamp** — *Responsive Web Design Certification* (300 Hours, Semantic HTML5, CSS3 Grid/Flexbox)
-- ⚡ **freeCodeCamp** — *JavaScript Algorithms & Data Structures* (300 Hours, ES6+, Functional Data Structures)
-- 🐍 **Accredited Academic Track** — *Python Programming Certification (Academic Transcript Verified)*
-- 🔍 **Cybersecurity Workshop Series** — *Digital Forensics, OSINT Reconnaissance & Google Dorking*
-- 🏆 **Titas Gas PLC × DIU CSE** — *Certificate of Appreciation (AI-Powered Productivity Transformation)*
-- 🎯 **DIU Programming Contests** — *DIU Take Off Finalist & Unlock The Algorithm (UTA) Finalist*
-- 🎖️ **Bangladesh National Cadet Corps (BNCC)** — *Camping, Leadership & Disaster Management (LCPL)*
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Honors & Competitive Contests
+- 🎯 **DIU Programming Contest (Fall 2025)**  
+  *Rank #29 Preliminary (Top 30)* · *Rank #123 Grand Finalist*
+- ⚡ **DIU UTA Programming Contest**  
+  *Rank #78 Placement* · *Greedy Heuristics & Asymptotic Bounds*
+- 📜 **Titas Gas PLC × DIU CSE**  
+  *Institutional Certificate of Appreciation* · *AI Productivity Transformation*
+- 🎖️ **Bangladesh National Cadet Corps (BNCC)**  
+  *Promoted to Lance Corporal (LCPL)* · *Leadership & Disaster Relief*
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Verified Certifications & Training
+- 🛡️ **Cisco Networking Academy**  
+  *Introduction to Cybersecurity* · *Network Defense, Firewalls & Protocols*
+- 💻 **freeCodeCamp Responsive Web Design**  
+  *300 Hours* · *Semantic HTML5, CSS3 Grid, Flexbox & Responsive Layouts*
+- ⚡ **freeCodeCamp JS Algorithms & Data Structures**  
+  *300 Hours* · *ES6+, Functional Programming & Complex Data Structures*
+- 🔍 **Cybersecurity Workshop Series**  
+  *Digital Forensics & OSINT / Google Dorking Reconnaissance*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -352,10 +392,9 @@ Open-source reference manual for cybersecurity analysts, penetration testers, an
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safin313-REBORN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Safin313-REBORN&repo=Assignment-Category-CAT_10-Pet-Adoption-Client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9" width="48%" />
 
 </div>
-
-> 💡 *Dropped `include_all_commits` and `count_private` from the stats card — those two params make the widget run a much heavier query on the shared free service, which is the most common reason this exact card shows as a broken image (it times out mid-render). Should load reliably now.*
 
 ---
 
@@ -366,11 +405,9 @@ Open-source reference manual for cybersecurity analysts, penetration testers, an
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=GitHub%20Trophies&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-[![trophy](https://github-profile-repo.vercel.app/?username=Safin313-REBORN&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=Safin313-REBORN&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-> 💡 *Removed the `SECRET`/`B`/`C` ranks from the query — computing every rank tier is what usually makes this card slow enough to time out too. Fewer ranks = faster, more reliable render.*
 
 ---
 
