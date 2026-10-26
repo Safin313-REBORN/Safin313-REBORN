@@ -65,7 +65,7 @@
      ============================================================ -->
 <div align="center">
 
-![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Academic%20Research%20%26%20Publications&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Academic%20Research%20and%20Publications&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
 </div>
 
@@ -85,7 +85,7 @@
      ============================================================ -->
 <div align="center">
 
-![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Experience%20%26%20Leadership&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Experience%20and%20Leadership&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
 </div>
 
@@ -324,7 +324,7 @@ Open-source reference manual for cybersecurity analysts, penetration testers, an
      ============================================================ -->
 <div align="center">
 
-![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Certifications%20%26%20Honors&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Certifications%20and%20Honors&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
 </div>
 
@@ -395,7 +395,7 @@ Open-source reference manual for cybersecurity analysts, penetration testers, an
      ============================================================ -->
 <div align="center">
 
-![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Let's%20Connect&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Let%20Us%20Connect&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
 **Open to:** Full-Stack & Frontend Roles · Embedded IoT Engineering · Cybersecurity Research · Global Freelance
 
