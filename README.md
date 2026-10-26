@@ -8,10 +8,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+clean+%26+responsive+web+interfaces;%F0%9F%94%90+Currently+diving+deep+into+Cybersecurity;%F0%9F%A4%96+Building+ESP32+robots+%26+embedded+systems;%F0%9F%92%BB+React+%7C+Tailwind+%7C+Node+%7C+MongoDB;%F0%9F%8E%AF+Competitive+Programmer+%7C+Beecrowd+grinder;%F0%9F%93%84+Academic+researcher+%7C+data-driven+writing;%F0%9F%87%A7%F0%9F%87%A9+CSE+Student+%40+DIU%2C+Bangladesh)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saharia%20Hassan%20Safin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharia-hassan-safin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Safin313--stack-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safin313-stack)
+[![GitHub](https://img.shields.io/badge/GitHub-Safin313--REBORN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Safin313-REBORN)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shahariarsaf892)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14EQjp8qPeE/)
-![Profile Views](https://komarev.com/ghpvc/?username=Safin313-stack&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Safin313-REBORN&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -61,7 +61,7 @@
      ============================================================ -->
 <div align="center">
 
-![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Currently%20Focusing%20On%20—%20Cybersecurity&fontSize=20&fontColor=00d2ff&animation=fadeIn)
+![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Currently%20Focusing%20On%20-%20Cybersecurity&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
 </div>
 
@@ -268,12 +268,12 @@ Cybersecurity challenge solutions.
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=GitHub%20Stats&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Safin313-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&rank_icon=github" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Safin313-stack&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Safin313-REBORN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=c9d1d9&rank_icon=github" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Safin313-REBORN&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff&sideLabels=c9d1d9" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safin313-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safin313-REBORN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=8" width="48%" />
 
 </div>
 
@@ -288,7 +288,7 @@ Cybersecurity challenge solutions.
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=GitHub%20Trophies&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Safin313-stack&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=Safin313-REBORN&theme=onedark&no-frame=true&margin-w=8&margin-h=8&column=6&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -303,13 +303,9 @@ Cybersecurity challenge solutions.
 
 ![section](https://capsule-render.vercel.app/api?type=rect&color=0:1e2a3a,100:0a3d62&height=55&section=header&text=Contribution%20Activity&fontSize=20&fontColor=00d2ff&animation=fadeIn)
 
-[![Safin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Safin313-stack&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true&area_color=0a3d62)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/><br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Safin313-stack/Safin313-stack/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Safin313-stack/Safin313-stack/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Safin313-REBORN/Safin313-REBORN/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Safin313-REBORN/Safin313-REBORN/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -337,6 +333,6 @@ Cybersecurity challenge solutions.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:1e90ff,100:0d1117&height=130&section=footer&animation=fadeIn)
 
-<sub>⭐ From <a href="https://github.com/Safin313-stack">Safin313-stack</a> — built with focus, caffeine & a little hacking spirit ☕🔐</sub>
+<sub>⭐ From <a href="https://github.com/Safin313-REBORN">Safin313-REBORN</a> — built with focus, caffeine & a little hacking spirit ☕🔐</sub>
 
 </div>
