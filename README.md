@@ -43,7 +43,7 @@
 │    - 🤖 ESP32 IoT firmware, dual-OLED & companion robots    │
 │    - 🔐 Defensive cybersecurity, Wireshark & CTF challenges │
 │    - ⚡ Competitive programming & Beecrowd / Toph solving   │
-│    - 🌍 Freelancing on Fiverr (5.0★ Rated)                  │
+│    - 🌍 Freelancing on Fiverr (5.0★ Rated)                 │
 ├─────────────────────────────────────────────────────────────┤
 │  fun_fact    : I debug with console.log and I'm not ashamed │
 └─────────────────────────────────────────────────────────────┘
